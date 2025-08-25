@@ -1,2 +1,2 @@
 # system_analysis
-this is pet project for my CV
+there are some use cases for CV
