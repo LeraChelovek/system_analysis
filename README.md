@@ -1,2 +1,2 @@
 # system_analysis
-this is pet project for my CV
+this is laborotory work from my university where I created database for dormitory 
